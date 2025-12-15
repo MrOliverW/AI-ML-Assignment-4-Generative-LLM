@@ -1,5 +1,6 @@
 AI-ML-Assignment-4-Generative-LLM
 Oliver Warlick
+YouTube Video: https://youtu.be/mH0AmZJqphU
 
 The specific Large Language Model (LLM) used: Mistral 7B
 Chosen task: Generation
@@ -20,4 +21,5 @@ Brief Observation: Strong balance between structure and creativity. The tone is 
 Parameter Value (Temperature): 1.0 (High Randomness)	
 Output Snippet: "In the quaint, cobblestone alleys of Old Town, where antique shops bloomed like ancient roses among the cobwebs of time, resided a man named Edgar. An ardent collector of ornate antique clocks, his home was a labyrinth of gears..."	
 Generation Time: 105.79s	
+
 Brief Observation: Highly creative, poetic language, and striking metaphors ("bloomed like ancient roses," "harmonious discord"). The model quickly selected tokens from a wider distribution, resulting in the fastest generation time but the most abstract language.
